@@ -11,7 +11,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "mx.itson.edu.practica5"
+        applicationId = "mx.itson.edu.popcornfactory"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
